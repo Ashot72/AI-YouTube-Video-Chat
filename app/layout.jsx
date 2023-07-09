@@ -1,5 +1,5 @@
 "use"
-//import './globals.css'
+
 import 'bootstrap/dist/css/bootstrap.css'
 import Bootstrap from './bootstrap'
 import Nav from '@components/Nav'

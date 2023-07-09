@@ -1,6 +1,6 @@
 # AI YouTube Video Chat
 
-In this AI YouTube Video Chat Next.js application, we ask questions to a YouTube video bot and get answers. This application makes use of [LangChain](https://js.langchain.com) which is a framework for developing applications powered by language models. 
+In this AI YouTube Video Chat Next.js application, we ask questions to our YouTube video bot and get answers. This application makes use of [LangChain](https://js.langchain.com) which is a framework for developing applications powered by language models. 
 
 As a cloud-based database, [MongoDB](https://www.mongodb.com/atlas/database) is used with [Prisma ORM](https://www.prisma.io/ ). We utilize [HNSWLIB](https://js.langchain.com/docs/modules/indexes/vector_stores/integrations/hnswlib), an in-memory vector store that can be saved to a file. 
 
